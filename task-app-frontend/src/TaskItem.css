@@ -1,0 +1,12 @@
+.task-item {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-item.done {
+    background: #d4edda;
+}
